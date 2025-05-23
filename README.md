@@ -1,4 +1,4 @@
-# Power-BI-projects
+# Power-BI-project
 
 World Population Analysis 
 The World Population analysis project is an analysis of international population data. It contains female and male data, as well as the aggregate data of different countries around the world.
